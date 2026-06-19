@@ -19,5 +19,11 @@ This repository contains the clean source code. You can easily compile and run i
 1. Clone the repository to your local machine.
 2. Open your terminal or command prompt in the project directory.
 3. Compile the code using the following command:
-   ```bash
-   g++ bank-system-fp-cpp.cpp -o BankSystem
+   `g++ bank-system-fp-cpp.cpp -o BankSystem`
+4. Run the executable:
+   - On Windows: `BankSystem.exe`
+   - On Linux/Mac: `./BankSystem`
+
+---
+## 🧑‍💻 Developer
+Developed by **Mohammad Abdeqlader**.
